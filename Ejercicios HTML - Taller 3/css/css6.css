@@ -1,0 +1,39 @@
+#estilo {
+    border: solid;
+    background-color: transparent;
+    border-radius: 10px;
+    color: white;
+}
+#boton{
+    border-radius: 15px;
+    background-color: aqua;
+    cursor: pointer;
+}
+body {
+    background-repeat: repeat;
+}
+
+#b1 {
+    cursor: alias;
+    color: white;
+}
+
+#b2 {
+    cursor: cell;
+    color: white;
+}
+
+#b3 {
+    cursor: n-resize;
+    color: white;
+}
+
+#b4 {
+    cursor: no-drop;
+    color: white;
+}
+
+p {
+    cursor: default;
+    color: white;
+}
